@@ -5,9 +5,9 @@
 
 <a href="https://www.github.com/nikharepriyant" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/priyantnikhare?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyantnikhare" alt="priyantnikhare" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/priyant_nikhare" target="blank"><img src="https://img.shields.io/twitter/follow/priyant_nikhare?logo=twitter&style=for-the-badge" alt="priyant_nikhare" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyantnikhare" alt="priyantnikhare" /></a> </p>
 
 - 🔭 I’m currently studying at **Jhulelal Institute of Technology, Nagpur**
 
