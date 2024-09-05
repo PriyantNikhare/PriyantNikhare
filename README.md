@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyantnikhare&label=Profile%20views&color=0e75b6&style=flat" alt="priyantnikhare" /> </p>
 
-<a href="https://www.github.com/nikharepriyant" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/nikharepriyant?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/nikharepriyant" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/priyantnikhare?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyantnikhare" alt="priyantnikhare" /></a> </p>
 
