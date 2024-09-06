@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyantnikhare" alt="priyantnikhare" /></a> </p>
 
-- 🔭 I’m currently studying at **Jhulelal Institute of Technology, Nagpur**
+- 🔭 I’m currently studying at **Jhulelal Institute of Technology, Nagpur.**
 
-- 🌱 I’m currently learning **React and Next.js for modern front-end development, Node.js and Express.js for backend services, Docker and Kubernetes for containerization and orchestration**
+- 🌱 I’m currently learning **React and Next.js for modern front-end development, Node.js and Express.js for backend services, Docker and Kubernetes for containerization and orchestration.**
 
-- 👯 I’m looking to collaborate on **Full Stack Development, Open Source Contributions, Web Design and UI/UX**
+- 👯 I’m looking to collaborate on **Full Stack Development, Open Source Contributions, Web Design and UI/UX.**
 
-- 🤝 I’m looking for help with **Advanced JavaScript and TypeScript techniques, Scaling applications and performance optimization, Best practices for DevOps and CI/CD pipelines**
+- 🤝 I’m looking for help with **Advanced JavaScript and TypeScript techniques, Scaling applications and performance optimization, Best practices for DevOps and CI/CD pipelines**.
 
-- 💬 Ask me about **Full Stack Development practices, JavaScript frameworks and libraries, Web application deployment and scaling**
+- 💬 Ask me about **Full Stack Development practices, JavaScript frameworks and libraries, Web application deployment and scaling.**
 
 - 📫 How to reach me **priyant.p.nikhare@gmail.com**
 
