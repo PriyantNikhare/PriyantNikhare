@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyant_nikhare" target="blank"><img src="https://img.shields.io/twitter/follow/priyant_nikhare?logo=twitter&style=for-the-badge" alt="priyant_nikhare" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PriyantNikhare" alt="PriyantNikhare" /></a> </p>
+<p align="left"> <a href="https://github.com/PriyantNikhare/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PriyantNikhare" alt="PriyantNikhare" /></a> </p>
 
 - 🔭 I’m currently studying at **Jhulelal Institute of Technology, Nagpur.**
 
