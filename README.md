@@ -44,5 +44,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyantNikhare&theme=dark" alt="priyantnikhare" /></p>
 
-[![An image of @priyant's Holopin badges, which is a link to view their full Holopin profile] [https://holopin.io/@priyantnikhare#](https://www.holopin.io/@priyantnikhare#)
+[![An image of @priyant's Holopin badges, which is a link to view their full Holopin profile] (https://www.holopin.io/@priyantnikhare#)
 
