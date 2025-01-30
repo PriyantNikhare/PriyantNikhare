@@ -44,3 +44,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyantNikhare&theme=dark" alt="priyantnikhare" /></p>
 
+[![An image of @priyant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/walayhs)](https://holopin.io/@priyantnikhare)
+
+![Profile-views](https://komarev.com/ghpvc/?username=Walayhs&abbreviated=true&style=for-the-badge&color=013042)
