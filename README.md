@@ -46,4 +46,4 @@
 
 [![An image of @priyant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@priyantnikhare)](https://holopin.io/@priyantnikhare)
 
-![Profile-views](https://komarev.com/ghpvc/?username=Priyants&abbreviated=true&style=for-the-badge&color=013042)
+![Profile-views](https://komarev.com/ghpvc/?username=priyantnikhare&abbreviated=true&style=for-the-badge&color=013042)
