@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PriyantNikhare&show_icons=true&theme=dark&locale=en" alt="priyantnikhare" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyantNikhare&theme=dark" alt="priyantnikhare" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PriyantNikhare&theme=dark)
