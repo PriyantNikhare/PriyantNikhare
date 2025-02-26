@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Full Stack Development practices, JavaScript frameworks and libraries, Web application deployment and scaling.**
 
-- 📫 How to reach me **priyant.p.nikhare@gmail.com**
+- 📫 How to reach me **nikharepriyant@gmail.com**
 
 - ⚡ Fun fact **I love experimenting with new technologies and solving complex problems. When I’m not coding, you can find me exploring the latest tech trends or working on personal projects.**
 
