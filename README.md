@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PriyantNikhare&show_icons=true&theme=dark&locale=en" alt="priyantnikhare" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=PriyantNikhare&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PriyantNikhare&theme=dark&hide_border=true)](https://git.io/streak-stats)
